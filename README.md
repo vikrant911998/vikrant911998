@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vikrant-bhadauria-025011157/)
+
 <!--
 **vikrant911998/vikrant911998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
