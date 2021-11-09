@@ -4,7 +4,7 @@
 - 🥅 500 Leetcode questions till december 2021
 
 
-[![Vikrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrant911998)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Vikrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrant911998&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
