@@ -1,15 +1,17 @@
+<!-- ![Profile views](https://gpvc.arturio.dev/vikrant911998)   -->
+
 ### Hi there 👋
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vikrant-bhadauria-025011157/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikrant911998&title=Followers,MultiLanguage,Commits,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vikrant-bhadauria-025011157/) -->
 <!-- - 🥅 500 Leetcode questions till december 2022 -->
 <!-- *!578U@wJI4nmMMu!ODQcy3f -->
 
-<!-- [![Vikrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrant911998&count_private=true&bg_color=315,e96443,904e95&title_color=fff&text_color=fff
-)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant911998&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant911998&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/vikrant911998/langs)](https://githubtrends.io) -->
+<!-- ![GitHub metrics](https://metrics.lecoq.io/vikrant911998)   -->
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=vikrant911998&mode=weekly) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrant911998&show_icons=true&count_private=true)
 
 <!--
 **vikrant911998/vikrant911998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
